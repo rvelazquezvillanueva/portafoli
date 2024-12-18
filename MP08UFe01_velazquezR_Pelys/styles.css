@@ -1,0 +1,154 @@
+body {
+    background-color: #222;
+}
+
+.barra .barra1 {
+    background-color: black;
+    height: 50px;
+    
+}
+
+
+.titol .titol1 {
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 5px 20px;
+    
+}
+
+.documentals {
+    
+}
+
+.documentals .documental1 {
+    display: inline;
+    margin: 5px;
+}
+
+.documentals .documental2 {
+    display: inline;
+    margin: 5px;
+    
+}
+
+.documentals .documental3 {
+    display: inline;
+    margin: 5px;
+    
+}
+
+.documentals .documental4 {
+    display: inline;
+    margin: 5px;
+    
+}
+
+.documentals .documental5 {
+    display: inline;
+    margin: 5px;
+    
+}
+
+.documentals .documental6 {
+    display: inline;
+    margin: 5px;
+    
+}
+
+.title .title1 {
+    color: #ccc;
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0 5px;
+}
+
+.any {
+
+}
+
+.any .any1 {
+    color: #ccc;
+    font-size: 11px;
+    font-family: Helvetica, sans-serif;
+    margin: 20px 5px;
+}
+
+.documentals2 {
+
+}
+
+.documentals2 .doc1 {
+    display: inline;
+    margin: 5px;
+}
+
+.documentals2 .doc2 {
+    display: inline;
+    margin: 5px;
+}
+
+.documentals2 .doc3 {
+    display: inline;
+    margin: 5px;
+}
+
+.documentals2 .doc4 {
+    display: inline;
+    margin: 5px;
+}
+
+.documentals2 .doc5 {
+    display: inline;
+    margin: 5px;
+}
+
+.vistos .documentalvistos {
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 5px 20px;
+    
+}
+
+.visto1 {
+
+}
+
+.visto1 .docv1 {
+    display: inline;
+    margin: 5px;
+}
+
+.visto1 .docv2 {
+    display: inline;
+    margin: 5px;
+}
+
+.visto1 .docv3 {
+    display: inline;
+    margin: 5px;
+}
+
+.visto1 .docv4 {
+    display: inline;
+    margin: 5px;
+}
+
+.pendents .peliculespendents {
+    color: #fff;
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 5px 20px;
+    
+}
+
+.pendentsimg .p1 {
+    display: inline;
+    margin: 5px;
+}
+
+.pendentsimg .p2 {
+    display: inline;
+    margin: 5px;
+}
